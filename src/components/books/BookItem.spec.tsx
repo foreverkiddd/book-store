@@ -18,8 +18,8 @@ const dummyBook: Book = {
     price: 10000,
     likes: 1,
     pubDate: "2025-04-22",
-    category_id: 1,
-    category_name: "소설",
+    categoryId: 1,
+    categoryName: "소설",
 };
 
 describe("BookItem", () => {

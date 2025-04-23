@@ -12,8 +12,8 @@ export interface Book {
     price: number;
     likes: number;
     pubDate: string;
-    category_id: number;
-    category_name: string;
+    categoryId: number;
+    categoryName: string;
 }
 
 export interface BookDetail extends Book {

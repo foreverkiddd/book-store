@@ -23,6 +23,7 @@ declare module 'styled-components' {
     buttonScheme: {
       primary: { color: string; backgroundColor: string };
       normal: { color: string; backgroundColor: string };
+      like: { color: string; backgroundColor: string };
     };
     borderRadius: { default: string };
     layout: {
